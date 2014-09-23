@@ -24,4 +24,6 @@ Step 3:	Once project is successfully converted
 Now your project is ready...
 
 
-Note: Make sure that your execution environment is set to JDK and no JRE
+Note: 	Make sure that your execution environment is set to JDK and no JRE
+		Add your storage key
+		Add your storage account key
